@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Controle de PCP",
+  "description": "Interface de gerenciamento de ordens e crachás para PCP",
+  "requestFramePermissions": []
+}
